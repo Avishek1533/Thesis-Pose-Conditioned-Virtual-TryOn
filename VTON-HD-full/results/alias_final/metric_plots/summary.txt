@@ -1,0 +1,4 @@
+CSV: D:\Mohoshin thesis\VTON-HD-full\metrics_per_image.csv
+N: 2007
+SSIM mean:  0.807498
+LPIPS mean: 0.214599
